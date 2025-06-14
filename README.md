@@ -13,7 +13,7 @@
   />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=armanamreliya&label=Profile%20views&color=0e75b6&style=flat" alt="armanamreliya" /> </p>
 
 
 [![Follow](https://img.shields.io/github/followers/armanamreliya?label=Follow&style=social)](https://github.com/armanamreliya)
