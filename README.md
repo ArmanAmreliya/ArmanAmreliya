@@ -12,23 +12,22 @@
     style="width: 300px; border-radius: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.25); margin-top: 20px;"
   />
 </p>
-<p align="center">
-  <img 
-    src="https://cdn.dribbble.com/users/730703/screenshots/16275829/media/fb8c1a69f1a60e87d5ae5c1aa5c965d9.gif" 
-    alt="developer gif"
-    style="width: 300px; border-radius: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.25); margin-top: 20px;"
-  />
-</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
+
+[![Follow](https://img.shields.io/github/followers/armanamreliya?label=Follow&style=social)](https://github.com/armanamreliya)
+
+### 👋 About Me
+
+- 🧠 I’m currently working on **AI and Machine Learning projects**
+- 🌱 I’m currently learning **Full-Stack Development** & **DSA**
+- 💬 Ask me about **MERN** , **NEXT.JS**
+- 📫 How to reach me: **armanamreliya33@gmail.com**
+- ⚡ Fun fact: **I debug more than I code — and I enjoy it!**
 
 
 
-- 🌱 I’m currently learning **development and DSA**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ArmanAmreliya](https://github.com/ArmanAmreliya)
-
-- 📫 How to reach me **amreliyarmax44@gmail.com**
-
-- ⚡ Fun fact **extrovert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,7 +61,7 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armanamreliya&show_icons=true&locale=en&layout=compact" alt="armanamreliya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="armanamreliya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armanamreliya&show_icons=true&locale=en" alt="armanamreliya" /></p>
 
