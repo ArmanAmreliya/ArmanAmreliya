@@ -38,7 +38,7 @@
         <p>Currently leading full-stack development at CURIO.AI and mentoring fellow developers at the Innovator Club, LDCE.</p>
       </td>
       <td width="40%" align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding" />
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200" alt="Waving Hand" />
       </td>
     </tr>
   </table>
@@ -227,58 +227,30 @@
 <h2 align="center">🏆 Achievements & Recognition</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArmanAmreliya&theme=algolia&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
-
-<br>
-
-<div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/000000/graduation-cap.png" width="50" alt="Education" />
-        <h4>🎓 Tech Lead</h4>
-        <p><strong>Innovator Club, LDCE</strong></p>
-        <p>Leading technical workshops & mentoring developers</p>
+        <img src="https://img.icons8.com/color/96/000000/google-logo.png" width="60" alt="Google" />
+        <h4>🎓 Google Student Ambassador</h4>
+        <p><strong>Google Developer Groups</strong></p>
+        <p>Representing Google's developer community and leading tech initiatives</p>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/000000/laptop-coding.png" width="50" alt="Coding" />
-        <h4>💻 Open Source Contributor</h4>
-        <p><strong>Multiple Projects</strong></p>
-        <p>Contributing to AI & Full-Stack projects</p>
+        <img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="60" alt="Trophy" />
+        <h4>🏆 Challenge to Change Winner</h4>
+        <p><strong>LDCE Level Competition</strong></p>
+        <p>Won innovation challenge at college level</p>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/000000/light-on.png" width="50" alt="Innovation" />
-        <h4>🚀 Innovation Leader</h4>
-        <p><strong>CURIO.AI</strong></p>
-        <p>Leading AI-integrated product development</p>
+        <img src="https://img.icons8.com/fluency/96/000000/medal.png" width="60" alt="Medal" />
+        <h4>🥈 Vikash Spatha Finalist</h4>
+        <p><strong>National Level Hackathon</strong></p>
+        <p>Finalist among top teams nationwide</p>
       </td>
     </tr>
   </table>
 </div>
 
----
-
-<h2 align="center">💡 What I'm Up To</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>🔭 Currently Working On</h3>
-        <p>• AI-powered recruitment automation at CURIO.AI</p>
-        <p>• Scaling SmartCampus for multiple institutions</p>
-        <p>• Advanced deep learning models for medical imaging</p>
-      </td>
-      <td width="50%" align="center">
-        <h3>🌱 Currently Learning</h3>
-        <p>• Advanced system design & microservices</p>
-        <p>• Computer vision & generative AI</p>
-        <p>• Cloud-native architectures (Kubernetes, Docker)</p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
