@@ -1,82 +1,310 @@
-![logo](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png)
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arman+Amreliya" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Arman%20Amreliya&fontSize=70&rotate=-2&fontAlignY=38&fontColor=FFFFFF&color=timeGradient&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descSize=20&descAlignY=65&animation=twinkling" width="100%" />
+  
+  <br>
+  
+  <p>
+    <a href="https://github.com/ArmanAmreliya">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+    </a>
+    <a href="https://linkedin.com/in/armanamreliya-ab90132b5">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    </a>
+    <a href="mailto:armanamreliya33@gmail.com">
+      <img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+    </a>
+  </p>
+  
+  <div align="center">
+    <img src="https://img.shields.io/github/followers/ArmanAmreliya?style=for-the-badge&logo=github&logoColor=white&labelColor=6366F1&color=181717" />
+    <img src="https://img.shields.io/github/stars/ArmanAmreliya?style=for-the-badge&logo=github&logoColor=white&labelColor=6366F1&color=181717" />
+    <img src="https://komarev.com/ghpvc/?username=ArmanAmreliya&color=6366F1&style=for-the-badge&label=Profile+Views" />
+  </div>
+  
+</div>
 
-<h3 align="center">A passionate software engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
-<p align="center">
-  <img 
-    src="https://cdn.dribbble.com/users/730703/screenshots/16275829/media/fb8c1a69f1a60e87d5ae5c1aa5c965d9.gif" 
-    alt="developer gif"
-    style="width: 300px; border-radius: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.25); margin-top: 20px;"
-  />
-</p>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=armanamreliya&label=Profile%20views&color=0e75b6&style=flat" alt="armanamreliya" /> </p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        <h2>Hey there! 👋</h2>
+        <blockquote>
+          <p><em>"Languages don't define a programmer — problem-solving does."</em></p>
+        </blockquote>
+        <p>I'm a <strong>Computer Science undergraduate at LDCE (Class of '27)</strong> and a passionate <strong>AI-focused Full-Stack Developer</strong> from India.</p>
+        <p>I believe in building practical solutions that matter. Whether it's crafting AI systems, designing scalable web platforms, or solving complex algorithmic challenges — I enjoy turning ideas into reality. My work spans from medical imaging AI to campus management systems, always with a focus on clean code and user impact.</p>
+        <p>Currently leading full-stack development at CURIO.AI and mentoring fellow developers at the Innovator Club, LDCE.</p>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+<br>
 
-[![Follow](https://img.shields.io/github/followers/armanamreliya?label=Follow&style=social)](https://github.com/armanamreliya)
+---
 
-### 👋 About Me
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
-- 🧠 I’m currently working on **AI and Machine Learning projects**
-- 🌱 I’m currently learning **Full-Stack Development** & **DSA**
-- 💬 Ask me about **MERN** , **NEXT.JS**
-- 📫 How to reach me: **armanamreliya33@gmail.com**
-- ⚡ Fun fact: **I debug more than I code — and I enjoy it!**
+<div align="center">
+  
+  **Languages & Frameworks**
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,react,nextjs,nodejs,express,tailwind,tensorflow,pytorch&theme=dark" />
+  
+  <br><br>
+  
+  **Databases & Cloud**
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,gcp,azure,vercel,firebase,docker&theme=dark" />
+  
+  <br><br>
+  
+  **Tools & Platforms**
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux,vscode,nginx&theme=dark" />
+  
+</div>
 
+---
 
+<h2 align="center">🚀 Featured Projects</h2>
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://img.icons8.com/fluency/96/000000/school.png" width="60" alt="School" />
+        <h3>SmartCampus</h3>
+        <p><strong>Centralized Campus Management Platform</strong></p>
+        <p>Full-stack platform for academic & student activity management with role-based access control</p>
+        <br>
+        <div>
+          <a href="https://smart-campus-alpha.vercel.app/">
+            <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C851?style=for-the-badge&logoColor=white" />
+          </a>
+          <a href="https://github.com/ArmanAmreliya/SmartCampus">
+            <img src="https://img.shields.io/badge/📁%20Source-181717?style=for-the-badge&logoColor=white" />
+          </a>
+        </div>
+        <br>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/ArmanAmreliya/SmartCampus?style=flat-square&color=FFD700" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://img.icons8.com/fluency/96/000000/bot.png" width="60" alt="AI Bot" />
+        <h3>AIcruiter</h3>
+        <p><strong>AI-Powered Recruitment Assistant</strong></p>
+        <p>Intelligent resume screening & candidate shortlisting using NLP and machine learning</p>
+        <br>
+        <div>
+          <a href="https://github.com/ArmanAmreliya/AIcruiter">
+            <img src="https://img.shields.io/badge/📁%20Source-181717?style=for-the-badge&logoColor=white" />
+          </a>
+          <a href="https://github.com/ArmanAmreliya/AIcruiter">
+            <img src="https://img.shields.io/badge/🚧%20In%20Development-FFA500?style=for-the-badge&logoColor=white" />
+          </a>
+        </div>
+        <br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/github/stars/ArmanAmreliya/AIcruiter?style=flat-square&color=FFD700" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://img.icons8.com/fluency/96/000000/brain.png" width="60" alt="Brain" />
+        <h3>Brain Tumour Detection System</h3>
+        <p><strong>Deep Learning Medical Imaging</strong></p>
+        <p>CNN-based automated brain tumour classification with high accuracy for medical diagnostics</p>
+        <br>
+        <div>
+          <a href="https://github.com/ArmanAmreliya/brain_tumour_detection_using_deep_learning">
+            <img src="https://img.shields.io/badge/📁%20Source-181717?style=for-the-badge&logoColor=white" />
+          </a>
+        </div>
+        <br>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+        <img src="https://img.shields.io/badge/CNN-Deep%20Learning-00599C?style=flat-square" />
+        <img src="https://img.shields.io/github/stars/ArmanAmreliya/brain_tumour_detection_using_deep_learning?style=flat-square&color=FFD700" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="60" alt="Security" />
+        <h3>SecureLC</h3>
+        <p><strong>Mobile Security & Monitoring System</strong></p>
+        <p>Cross-platform mobile security app with real-time supervisor dashboard and live monitoring</p>
+        <br>
+        <div>
+          <a href="https://secure-lc-superviser.vercel.app/">
+            <img src="https://img.shields.io/badge/🌐%20Dashboard-00C851?style=for-the-badge&logoColor=white" />
+          </a>
+          <a href="https://github.com/ArmanAmreliya/SecureLC">
+            <img src="https://img.shields.io/badge/📱%20Mobile%20App-181717?style=for-the-badge&logoColor=white" />
+          </a>
+          <a href="https://github.com/ArmanAmreliya/SecureLC---Superviser">
+            <img src="https://img.shields.io/badge/🖥%20Web%20Panel-181717?style=for-the-badge&logoColor=white" />
+          </a>
+        </div>
+        <br>
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Real--time-WebSocket-00C851?style=flat-square" />
+        <img src="https://img.shields.io/github/stars/ArmanAmreliya/SecureLC?style=flat-square&color=FFD700" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/armanamreliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armanamreliya" height="30" width="40" /></a>
-<a href="https://instagram.com/armax_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armax_14" height="30" width="40" /></a>
-<a href="https://discord.gg/armax_14__08192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="armax_14__08192" height="30" width="40" /></a>
-</p>
+---
 
-  ### 💻 Languages and Tools:
+<h2 align="center">💼 Professional Journey</h2>
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/96/000000/briefcase.png" width="50" alt="Briefcase" />
+        <h4>Project Lead Developer</h4>
+        <p><strong>CURIO.AI</strong></p>
+        <p><em>January 2026 - Present</em></p>
+        <p>Leading full-stack development with AI integrations, architecting scalable solutions and mentoring junior developers</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/96/000000/wrench.png" width="50" alt="Tools" />
+        <h4>Web Development Intern</h4>
+        <p><strong>CURIO.AI</strong></p>
+        <p><em>July 2025 - December 2025</em></p>
+        <p>Built production-ready web features, RESTful APIs, and enhanced UI/UX across multiple projects</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/96/000000/graduation-cap.png" width="50" alt="Graduation" />
+        <h4>Tech Lead</h4>
+        <p><strong>Innovator Club, LDCE</strong></p>
+        <p><em>2025 - Present</em></p>
+        <p>Leading technical initiatives, conducting workshops, and mentoring peers in modern development practices</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux Toolkit" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40"/>
+---
 
-  <!-- Backend & DB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app?user=ArmanAmreliya&theme=react&border_radius=15&border=61dafb&background=0d1117&stroke=61dafb&ring=6366F1&fire=fb8500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=61dafb&sideLabels=61dafb&dates=ffffff" />
+      </td>
+      <td align="center">
+        <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=ArmanAmreliya&show_icons=true&theme=react&border_radius=15&border_color=61dafb&bg_color=0d1117&title_color=6366F1&text_color=ffffff&icon_color=fb8500&count_private=true&include_all_commits=true" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="600" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ArmanAmreliya&hide=HTML,CSS&theme=react&border_radius=15&border_color=61dafb&bg_color=0d1117&title_color=6366F1&text_color=ffffff&layout=compact&langs_count=10" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=ArmanAmreliya&bg_color=0d1117&color=6366F1&line=fb8500&point=ffffff&area=true&hide_border=false&border_color=61dafb&border_radius=15&area_color=6366F1" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-  <!-- Cloud & Deployment -->
-  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=azure" alt="Microsoft Azure" width="40" height="40"/>
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="armanamreliya" /></p>
+<h2 align="center">🏆 Achievements & Recognition</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armanamreliya&show_icons=true&locale=en" alt="armanamreliya" /></p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArmanAmreliya&theme=algolia&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armanamreliya&" alt="armanamreliya" /></p>
+<br>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/96/000000/graduation-cap.png" width="50" alt="Education" />
+        <h4>🎓 Tech Lead</h4>
+        <p><strong>Innovator Club, LDCE</strong></p>
+        <p>Leading technical workshops & mentoring developers</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/96/000000/laptop-coding.png" width="50" alt="Coding" />
+        <h4>💻 Open Source Contributor</h4>
+        <p><strong>Multiple Projects</strong></p>
+        <p>Contributing to AI & Full-Stack projects</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/96/000000/light-on.png" width="50" alt="Innovation" />
+        <h4>🚀 Innovation Leader</h4>
+        <p><strong>CURIO.AI</strong></p>
+        <p>Leading AI-integrated product development</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
+---
 
+<h2 align="center">💡 What I'm Up To</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🔭 Currently Working On</h3>
+        <p>• AI-powered recruitment automation at CURIO.AI</p>
+        <p>• Scaling SmartCampus for multiple institutions</p>
+        <p>• Advanced deep learning models for medical imaging</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>🌱 Currently Learning</h3>
+        <p>• Advanced system design & microservices</p>
+        <p>• Computer vision & generative AI</p>
+        <p>• Cloud-native architectures (Kubernetes, Docker)</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center">🤝 Let's Connect & Collaborate</h2>
+
+<div align="center">
+  <img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="100px" alt="Handshake" />
+  <br><br>
+  <h3>Open to collaborating on innovative AI & Full-Stack projects!</h3>
+  <p>Whether it's building something new or contributing to existing work,<br>I'm always excited to connect with fellow developers and creators.</p>
+  <br>
+  <div>
+    <a href="https://github.com/ArmanAmreliya">
+      <img src="https://img.shields.io/badge/Explore%20Repositories-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="mailto:armanamreliya33@gmail.com">
+      <img src="https://img.shields.io/badge/Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/armanamreliya-ab90132b5">
+      <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </div>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=16&fontColor=ffffff&animation=twinkling&text=Thanks%20for%20visiting!%20⭐%20Star%20some%20repos%20if%20you%20like%20my%20work!" />
+</div>
