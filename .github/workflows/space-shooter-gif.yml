@@ -2,23 +2,23 @@ name: Update Space Shooter GIF
 
 on:
   schedule:
-    - [cite_start]cron: "0 0 * * *" # Runs daily at midnight [cite: 19]
-  [cite_start]workflow_dispatch: # Allows you to run it manually [cite: 20]
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
-  [cite_start]contents: write [cite: 22]
+  contents: write
 
 jobs:
   generate:
-    [cite_start]runs-on: ubuntu-latest [cite: 25]
+    runs-on: ubuntu-latest
     steps:
-      - [cite_start]uses: actions/checkout@v4 [cite: 27]
+      - uses: actions/checkout@v4
       
       - name: Create assets directory
-        [cite_start]run: mkdir -p assets [cite: 28, 29]
+        run: mkdir -p assets
         
-      - [cite_start]uses: czl9707/gh-space-shooter@v1 # [cite: 6, 30]
+      - uses: czl9707/gh-space-shooter@v1
         with:
-          [cite_start]github-token: ${{ secrets.GITHUB_TOKEN }} # [cite: 32]
-          [cite_start]output-path: assets/space-shooter.gif # [cite: 32]
-          [cite_start]strategy: random # [cite: 32]
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: assets/space-shooter.gif
+          strategy: random
