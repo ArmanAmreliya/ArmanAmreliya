@@ -276,6 +276,10 @@
 </div>
 
 ---
+<div align="center">
+  <img src="assets/space-shooter.gif" width="100%" alt="Space Shooter Game" />
+</div>
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=16&fontColor=ffffff&animation=twinkling&text=Thanks%20for%20visiting!%20⭐%20Star%20some%20repos%20if%20you%20like%20my%20work!" />
